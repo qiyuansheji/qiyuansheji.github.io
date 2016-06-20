@@ -4,7 +4,7 @@ title:  "南江印象时尚餐厅"
 date:   2015-10-11 11:15:55
 categories: VI设计
 excerpt: 南江印象时尚餐厅logo及部分物料
-tags： 南江印象 餐厅  菜谱  LOGO 菜单 招牌
+tags:  南江印象 餐厅  菜谱  LOGO 菜单 招牌
 ---
 
 * content
