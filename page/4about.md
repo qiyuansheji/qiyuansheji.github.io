@@ -58,6 +58,7 @@ icon: user
 
 2015.6.15 | 模板调整和内容编写。
 2015.8.16 | 改博客名。
+2015.6.20 | 感谢HyG[Gaohaoyang](https://github.com/Gaohaoyang)的jekyll模板，以此改进。
 
 
 ---
