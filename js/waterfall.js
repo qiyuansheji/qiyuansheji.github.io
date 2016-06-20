@@ -25,7 +25,7 @@
         code_link: 'https://qiyuansheji.github.io/2015/08/15/fulong/',
         title: '福隆酒店菜谱设计',
         core_tech: '杂志式菜谱 PS Coreldraw',
-        description: '福隆酒店菜谱考虑成本原因，采用杂志册页式设计，内页40P，250g铜版纸覆膜胶装，封面300g铜版纸亮膜。福隆酒店菜谱已制作设计两批。'
+        description: '福隆酒店菜谱，采用杂志册页式设计，内页40P，250g铜版纸覆膜胶装，封面300g铜版纸亮膜。相对成本比较低，福隆酒店菜谱已制作设计两批。'
     }
 
     ];
