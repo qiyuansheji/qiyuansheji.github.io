@@ -13,13 +13,20 @@
      * 内容JSON
      */
     var demoContent = [{
-        demo_link: 'http://www.chilee.xyz/',
-        img_link: '/css/pics/chilee.jpg',
-        code_link: 'http://www.chilee.xyz/',
-        title: '致乐网络工作室',
-        core_tech: 'JavaScript CSS',
-        description: '致乐网络工作室专业从事网络建站，域名空间服务，并提供产品设计，宣传视频制作，网页视频主播…<a href="http://www.chilee.xyz/">致乐网络</a>  A Better Website.如有意向您可以联系我们，或者先了解我们的项目经验。'
-    },
+        demo_link: 'https://qiyuansheji.github.io/2015/10/11/nanjiangyinxiang/',
+        img_link: '/css/pics/nanjiangyinxiang/2.jpg',
+        code_link: 'https://qiyuansheji.github.io/2015/10/11/nanjiangyinxiang/',
+        title: '南江印象时尚餐厅',
+        core_tech: 'VI LOGO 招牌 菜谱',
+        description: '南江印象时尚餐厅是一家以川菜、湘菜为主的餐厅，2015年开业，LOGO借用了苏州印象的设计，时尚鲜明；招牌采用PVC发光字，跑马灯亮化。'
+    },{
+        demo_link: 'https://qiyuansheji.github.io/2015/08/15/fulong/',
+        img_link: '/css/pics/fulong06',
+        code_link: 'https://qiyuansheji.github.io/2015/08/15/fulong/',
+        title: '福隆酒店菜谱设计',
+        core_tech: '杂志式菜谱 PS Coreldraw',
+        description: '福隆酒店菜谱考虑成本原因，采用杂志册页式设计，内页40P，250g铜版纸覆膜胶装，封面300g铜版纸亮膜。福隆酒店菜谱已制作设计两批。'
+    }
 
     ];
 
