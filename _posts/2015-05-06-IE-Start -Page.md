@@ -3,7 +3,8 @@ layout: post
 title:  "IE主页篡改修复"
 date:   2015-05-06 14:14:15
 categories: Web
-excerpt: IE主页篡改修复
+excerpt: IE主页篡改修复 按住Shift右击任务栏的IE图标，看见目标最后面的网址了吗？，删除吧，只需这简单的一步，主页便可自由更改。
+tags: IE 图标修复 清理
 ---
 
 * content

@@ -3,7 +3,8 @@ layout: post
 title:  "Windows 8 Jekyll安装"
 date:   2015-05-05 14:14:15
 categories: Jekyll
-excerpt: Windows 8 Jekyll安装
+excerpt: Windows 8 Jekyll安装 
+tags: Jekyll Python ruby DevKit
 ---
 
 * content
