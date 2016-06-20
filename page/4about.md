@@ -68,3 +68,5 @@ icon: user
  
 ---
  连床柢足话昔时，秉烛待旦忆年少。
+
+{% include comments.html %}
