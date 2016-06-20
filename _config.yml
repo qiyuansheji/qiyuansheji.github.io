@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 憩园设计
+title: 憩园设计工作室
 brief-intro: 菜谱书籍 包装标识 招牌灯箱
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://chilee0.github.io/" # the base hostname & protocol for your site
+url: "http://qiyuansheji.github.io/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -19,13 +19,13 @@ github_username:  chilee0
 email: lizhi89315@gmail.com
 
 
-description_footer: 憩园设计工作室  高档菜谱 册页书籍 灯箱标识  包装设计 门头招牌 VI设计
+description_footer: 高档菜谱 册页书籍 灯箱标识  包装设计 门头招牌 VI设计
 
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
 duoshuo_shortname: chilee
-disqus_shortname: #
+disqus_shortname: #####
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即

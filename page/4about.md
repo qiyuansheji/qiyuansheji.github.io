@@ -42,7 +42,6 @@ icon: user
 
 * email：[lizhi89315@gmail.com](mailto:{{ site.email }})
 * QQ：451448204
-* 电话：18607405094
 * Weibo：[九仁](http://weibo.com/jiuren1989)
 * 知乎：[九仁](http://www.zhihu.com/people/chilee)
 * 致乐网络：[CHILEE](http://www.chilee.xyz/)
