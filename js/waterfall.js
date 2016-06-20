@@ -21,7 +21,7 @@
         description: '南江印象时尚餐厅是一家以川菜、湘菜为主的餐厅，2015年开业，LOGO借用了苏州印象的设计，时尚鲜明；招牌采用PVC发光字，跑马灯亮化。'
     },{
         demo_link: 'https://qiyuansheji.github.io/2015/08/15/fulong/',
-        img_link: '/css/pics/fulong06',
+        img_link: '/css/pics/fulong06.jpg',
         code_link: 'https://qiyuansheji.github.io/2015/08/15/fulong/',
         title: '福隆酒店菜谱设计',
         core_tech: '杂志式菜谱 PS Coreldraw',
