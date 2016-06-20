@@ -2,7 +2,7 @@
 layout: page
 title: 关 于
 permalink: /about/
-icon: glyphicon-user
+icon: user
 ---
 
 > ## 和谦致乐，君子攸同。 ##
