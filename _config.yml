@@ -31,8 +31,8 @@ disqus_shortname: #####
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: 4be600e1f7c5ddf92ed2adb2a1e89959
-google_analytics_id: UA-79600330-1 # google 分析追踪id
+baidu_tongji_id: 059b26ae841bc5477f70925301affe3e
+google_analytics_id: UA-79600330-2 # google 分析追踪id
 
 # Build settings
 markdown: kramdown
