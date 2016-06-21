@@ -8,7 +8,7 @@
 # Site settings
 title: 憩园设计工作室
 brief-intro: 菜谱书籍 包装标识 招牌灯箱
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/about" # the subpath of your site, e.g. /blog
 url: "http://qiyuansheji.github.io/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
