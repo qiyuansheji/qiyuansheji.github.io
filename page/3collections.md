@@ -84,5 +84,33 @@ icon: bookmark
 
     环评参考网 环境报告
 
+## 前端工具
+
+* [编码BASE64](http://tool.css-js.com/base64.html)
+
+     图片 编码 BASE64
+
+* [CSS Reference](http://tympanus.net/codrops/css_reference/#section_css-concept)
+
+     An extensive CSS reference with all the important properties and info to learn CSS from the basics　
+
+* [ 视频转换](http://ffmpeg.org/)
+
+     A complete, cross-platform solution to record, convert and stream audio and video.
+
+* [ CSS优化](http://tools.maxcdn.com/process)
+
+    Procssor cleans and organizes your css the way you want it.
+
+* [Webstorm](https://www.jetbrains.com/webstorm/)
+
+    Webstorm
+
+* [RequireJS](http://requirejs.org/)
+
+    RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node. Using a modular script loader like RequireJS will improve the speed and quality of your code.
+
+
+
 
 {% include comments.html %}
